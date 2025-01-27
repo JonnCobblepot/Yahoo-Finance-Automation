@@ -28,6 +28,14 @@ O fluxo de entrada e saída de dados funciona da seguinte forma:
 
 ---
 
+## Vídeo do Funcionamento do Programa
+
+Fiz um vídeo mostrando o código e a execução com sucesso do código e está presente em meu canal no YouTube. Segue abaixo o link:
+
+[https://youtu.be/ygAncffFft0](https://youtu.be/ygAncffFft0) 
+
+---
+
 ## Vantagem de Utilização
 
 - **Personalização**: quem estiver usando pode escolher quais tickers quer consultar, sem depender do programador.
@@ -67,7 +75,8 @@ Yahoo-Finance-Automation
 ├── Passo a Passo.ipynb
 ├── README.md
 ├── Regras do Desafio Tecnico - Acorn.pdf
-└── requirements.txt
+├── requirements.txt
+└── Vídeo do Funcionamento do Programa.mp4
 ```
 
 ---
@@ -82,6 +91,7 @@ Yahoo-Finance-Automation
 - `README.md`: este que você está lendo aqui agora :)
 - `Regras do Desafio Tecnico - Acorn.pdf`: iniciei este projeto como desafio prático e técnico da empresa Acorn e aqui está o que foi solicitado
 - `requirements.txt`: ajuda na documentação e gerenciamento de dependências
+- `Vídeo do Funcionamento do Programa.mp4`: fiz um vídeo mostrando o código e a execução com sucesso do código e está presente em meu canal no YouTube, além disso também esta aqui no repositório. [Link novamente](https://youtu.be/ygAncffFft0) 
 
 ---
 
