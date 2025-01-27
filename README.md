@@ -32,7 +32,7 @@ O fluxo de entrada e saída de dados funciona da seguinte forma:
 
 Fiz um vídeo mostrando o código e a execução com sucesso do código e está presente em meu canal no YouTube. Segue abaixo o link:
 
-[https://youtu.be/ygAncffFft0](https://youtu.be/ygAncffFft0) 
+### **[https://youtu.be/ygAncffFft0](https://youtu.be/ygAncffFft0)** 
 
 ---
 
