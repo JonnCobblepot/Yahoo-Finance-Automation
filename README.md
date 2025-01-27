@@ -124,8 +124,9 @@ O yfinance **não** é afiliado, endossado ou verificado pelo Yahoo, Inc. É uma
 **Você deve consultar os termos de uso do Yahoo! Os quais se encontram abaixo Para obter detalhes sobre seus direitos de usar os dados reais baixados.**
 
 [Termos de uso da API do desenvolvedor do Yahoo](https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm) 
-[Termos de serviço do Yahoo](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html)
-[Termos do Yahoo](https://policies.yahoo.com/us/en/yahoo/terms/index.htm) 
 
+[Termos de serviço do Yahoo](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html)
+
+[Termos do Yahoo](https://policies.yahoo.com/us/en/yahoo/terms/index.htm) 
 
 </td></tr></table>
